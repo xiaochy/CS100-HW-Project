@@ -1,0 +1,3 @@
+﻿  test_polynomial_function.cpp
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\test\test_polynomial_function.cpp(14,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  test_polynomial_function.vcxproj -> C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\out\build\test\Debug\test_polynomial_function.exe

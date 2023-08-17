@@ -1,0 +1,6 @@
+﻿  5-1.cpp
+C:\Users\XIAOCHUYANG\Desktop\Project1\5-1.cpp(4,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\XIAOCHUYANG\Desktop\Project1\5-1.cpp(105): warning C4715: “Array::at”: 不是所有的控件路径都返回值
+C:\Users\XIAOCHUYANG\Desktop\Project1\5-1.cpp(112): warning C4715: “Array::at”: 不是所有的控件路径都返回值
+C:\Users\XIAOCHUYANG\Desktop\Project1\5-1.cpp(172): warning C4715: “Array::slice”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\XIAOCHUYANG\Desktop\Project1\x64\Debug\Project1.exe

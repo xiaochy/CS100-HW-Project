@@ -1,0 +1,10 @@
+﻿“test hw3-1.exe”(Win32): 已加载“C:\Users\XIAOCHUYANG\Desktop\test hw3-1\x64\Debug\test hw3-1.exe”。已加载符号。
+“test hw3-1.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“test hw3-1.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“test hw3-1.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“test hw3-1.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“test hw3-1.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0xb270 已退出，返回值为 0 (0x0)。
+线程 0x72e0 已退出，返回值为 0 (0x0)。
+线程 0x9fe8 已退出，返回值为 0 (0x0)。
+程序“[46704] test hw3-1.exe”已退出，返回值为 0 (0x0)。

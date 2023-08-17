@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/XIAOCHUYANG/Desktop/6.21 hw9 debug/third_party/SOIL/CMakeLists.txt
+  image_dxt.c
+  image_helper.c
+  soil.c
+  stb_image_aug.c
+  正在生成代码...
+  SOIL.vcxproj -> C:\Users\XIAOCHUYANG\Desktop\6.21 hw9 debug\build\lib\Debug\SOIL.lib

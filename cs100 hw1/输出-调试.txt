@@ -1,0 +1,12 @@
+﻿“Q21.exe”(Win32): 已加载“D:\编程\C\Q21\x64\Debug\Q21.exe”。已加载符号。
+“Q21.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“Q21.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“Q21.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“Q21.exe”(Win32): 已加载“C:\Windows\System32\apphelp.dll”。
+“Q21.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“Q21.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0x11e80 已退出，返回值为 0 (0x0)。
+0x00007FF74BAF35A7 处(位于 Q21.exe 中)引发的异常: 0xC00000FD: Stack overflow (参数: 0x0000000000000001, 0x000000DB2FC03000)。
+0x00007FF74BAF35A7 处有未经处理的异常(在 Q21.exe 中): 0xC00000FD: Stack overflow (参数: 0x0000000000000001, 0x000000DB2FC03000)。
+
+程序“[60752] Q21.exe”已退出，返回值为 0 (0x0)。

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\out\build\CMakeFiles\91ad41fbb2f17a23d115463ca6edaac8\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\out\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5019CF12-2774-3012-8350-4F6F973D13F5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

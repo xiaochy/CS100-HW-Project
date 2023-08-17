@@ -1,0 +1,9 @@
+﻿  5-2.cpp
+5-2.obj : error LNK2019: 无法解析的外部符号 "public: virtual __cdecl Shape::~Shape(void)" (??1Shape@@UEAA@XZ)，函数 "public: virtual __cdecl Circle::~Circle(void)" (??1Circle@@UEAA@XZ) 中引用了该符号
+5-2.obj : error LNK2001: 无法解析的外部符号 "public: virtual double __cdecl Shape::CalculateArea(void)const " (?CalculateArea@Shape@@UEBANXZ)
+5-2.obj : error LNK2001: 无法解析的外部符号 "public: virtual double __cdecl Shape::CalculatePerimeter(void)const " (?CalculatePerimeter@Shape@@UEBANXZ)
+5-2.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __cdecl Shape::NumberCorners(void)const " (?NumberCorners@Shape@@UEBAHXZ)
+5-2.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Rectangle::Rectangle(double,double)" (??0Rectangle@@QEAA@NN@Z)，函数 main 中引用了该符号
+5-2.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Square::Square(double)" (??0Square@@QEAA@N@Z)，函数 main 中引用了该符号
+5-2.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Triangle::Triangle(double,double)" (??0Triangle@@QEAA@NN@Z)，函数 main 中引用了该符号
+C:\Users\XIAOCHUYANG\Desktop\cs100 hw5\x64\Debug\cs100 hw5.exe : fatal error LNK1120: 7 个无法解析的外部命令

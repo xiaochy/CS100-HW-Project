@@ -1,0 +1,6 @@
+﻿  4-2A test.c
+C:\Users\XIAOCHUYANG\Desktop\cs100 hw4\4-2A\4-2A test.c(271,14): warning C4101: “k”: 未引用的局部变量
+C:\Users\XIAOCHUYANG\Desktop\cs100 hw4\4-2A\4-2A test.c(540,12): warning C4101: “j”: 未引用的局部变量
+C:\Users\XIAOCHUYANG\Desktop\cs100 hw4\4-2A\4-2A test.c(1627,17): warning C4477: “scanf_s”: 格式字符串“%[^\n]”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\XIAOCHUYANG\Desktop\cs100 hw4\4-2A\4-2A test.c(1627,17): message : 此参数用作缓冲区大小
+  4-2A.vcxproj -> C:\Users\XIAOCHUYANG\Desktop\cs100 hw4\4-2A\x64\Debug\4-2A.exe

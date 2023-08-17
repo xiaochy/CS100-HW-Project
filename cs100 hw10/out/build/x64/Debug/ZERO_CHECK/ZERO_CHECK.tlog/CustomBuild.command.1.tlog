@@ -1,0 +1,10 @@
+^C:\USERS\XIAOCHUYANG\DESKTOP\CS100-HW10\OUT\BUILD\CMAKEFILES\91AD41FBB2F17A23D115463CA6EDAAC8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/XIAOCHUYANG/Desktop/cs100-hw10 -BC:/Users/XIAOCHUYANG/Desktop/cs100-hw10/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/XIAOCHUYANG/Desktop/cs100-hw10/out/build/cs100hw10.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

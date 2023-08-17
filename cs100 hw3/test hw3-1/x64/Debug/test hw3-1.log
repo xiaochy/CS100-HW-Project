@@ -1,0 +1,9 @@
+﻿  3-3.c
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(96,24): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(98,26): warning C4305: “*=”: 从“double”到“float”截断
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(109,9): warning C4101: “i”: 未引用的局部变量
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(318,25): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(407,28): warning C4305: “*=”: 从“double”到“float”截断
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(304,19): warning C4101: “k”: 未引用的局部变量
+C:\Users\XIAOCHUYANG\Desktop\test hw3-1\3-3.c(304,22): warning C4101: “p”: 未引用的局部变量
+  test hw3-1.vcxproj -> C:\Users\XIAOCHUYANG\Desktop\test hw3-1\x64\Debug\test hw3-1.exe

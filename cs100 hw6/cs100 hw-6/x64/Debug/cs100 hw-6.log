@@ -1,0 +1,6 @@
+﻿  6-1.cpp
+  6-3.cpp
+  正在生成代码...
+D:\Grade01-2 SHTech Course\CS100\作业题目\cs100 hw-6\6-1.cpp(390): warning C4715: “Gradesheet::findByName”: 不是所有的控件路径都返回值
+D:\Grade01-2 SHTech Course\CS100\作业题目\cs100 hw-6\6-1.cpp(404): warning C4715: “Gradesheet::findByNumber”: 不是所有的控件路径都返回值
+D:\Grade01-2 SHTech Course\CS100\作业题目\cs100 hw-6\6-1.cpp(430): error C4716: “operator<<”: 必须返回一个值

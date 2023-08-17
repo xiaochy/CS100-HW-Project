@@ -1,0 +1,10 @@
+^C:\USERS\XIAOCHUYANG\DESKTOP\6.21 HW9 DEBUG\BUILD\CMAKEFILES\A4533895F445EFEB6E55E72C25873FCC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/XIAOCHUYANG/Desktop/6.21 hw9 debug" "-BC:/Users/XIAOCHUYANG/Desktop/6.21 hw9 debug/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/XIAOCHUYANG/Desktop/6.21 hw9 debug/build/Dawnbreaker.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

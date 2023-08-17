@@ -1,0 +1,15 @@
+﻿  polynomial.cpp
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(96,24): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(105,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(113,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(145,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(183,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(191,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(222,3): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(257,66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(281,66): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  polynomial_parser.cpp
+  正在生成代码...
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(87): warning C4715: “Polynomial::operator[]”: 不是所有的控件路径都返回值
+C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\src\polynomial.cpp(93): warning C4715: “Polynomial::operator[]”: 不是所有的控件路径都返回值
+  cs100hw10Lib.vcxproj -> C:\Users\XIAOCHUYANG\Desktop\cs100-hw10\out\build\src\Debug\cs100hw10Lib.lib

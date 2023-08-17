@@ -1,0 +1,13 @@
+﻿“4-2A.exe”(Win32): 已加载“C:\Users\XIAOCHUYANG\Desktop\cs100 hw4\4-2A\x64\Debug\4-2A.exe”。已加载符号。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0x107b4 已退出，返回值为 0 (0x0)。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\sechost.dll”。
+“4-2A.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+线程 0xe270 已退出，返回值为 3221225786 (0xc000013a)。
+线程 0xf768 已退出，返回值为 3221225786 (0xc000013a)。
+线程 0x10524 已退出，返回值为 3221225547 (0xc000004b)。
+程序“[61496] 4-2A.exe”已退出，返回值为 3221225786 (0xc000013a)。
